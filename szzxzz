@@ -1,0 +1,193 @@
+<!DOCTYPE html> <html lang="de"> <head> <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0"> <title>Discord Bot – Nutzungsanleitung</title> <style> body { margin: 0; font-family: Arial, sans-serif; background: #0f1117; color: #ffffff; }
+    .container {
+        max-width: 900px;
+        margin: auto;
+        padding: 50px 20px;
+    }
+
+    .header {
+        text-align: center;
+        padding: 40px 20px;
+    }
+
+    .header h1 {
+        color: #5865F2;
+        font-size: 42px;
+        margin-bottom: 10px;
+    }
+
+    .header p {
+        color: #b5bac1;
+        font-size: 18px;
+    }
+
+    .card {
+        background: #1e2128;
+        border-radius: 12px;
+        padding: 25px;
+        margin: 20px 0;
+        box-shadow: 0 4px 15px rgba(0,0,0,0.25);
+    }
+
+    h2 {
+        color: #5865F2;
+    }
+
+    code {
+        background: #111318;
+        color: #ffffff;
+        padding: 5px 8px;
+        border-radius: 5px;
+    }
+
+    ul {
+        line-height: 1.8;
+    }
+
+    .footer {
+        text-align: center;
+        color: #72767d;
+        margin-top: 40px;
+    }
+</style>
+
+</head> <body> <div class="container">
+<div class="header">
+    <h1>Discord Bot</h1>
+    <p>Nutzungsanleitung und Informationen</p>
+</div>
+
+<div class="card">
+    <h2>Über den Bot</h2>
+    <p>
+        Dieser Discord Bot wurde entwickelt, um Discord-Server
+        bei der Verwaltung und Automatisierung verschiedener
+        Aufgaben zu unterstützen.
+    </p>
+</div>
+
+<div class="card">
+    <h2>Verwendung</h2>
+    <p>
+        Die Bedienung des Bots erfolgt über Discord Slash Commands.
+        Durch die Eingabe von <code>/</code> in einem Discord-Kanal
+        werden die verfügbaren Befehle angezeigt.
+    </p>
+</div>
+
+<div class="card">
+    <h2>Hilfe</h2>
+    <p>
+        Mit dem folgenden Befehl können verfügbare Funktionen
+        und Befehle angezeigt werden:
+    </p>
+
+    <p><code>/help</code></p>
+</div>
+
+<div class="card">
+    <h2>Berechtigungen</h2>
+    <p>
+        Der Bot benötigt bestimmte Discord-Berechtigungen, damit
+        seine vorgesehenen Funktionen ordnungsgemäß ausgeführt
+        werden können.
+    </p>
+
+    <p>
+        Befehle mit administrativen Funktionen können nur von
+        Benutzern verwendet werden, die über die entsprechenden
+        Discord-Berechtigungen verfügen.
+    </p>
+</div>
+
+<div class="card">
+    <h2>Datenschutz</h2>
+    <p>
+        Der Bot verarbeitet nur Informationen, die für die
+        Bereitstellung seiner Funktionen erforderlich sind.
+        Personenbezogene Daten werden nicht ohne erforderlichen
+        Zweck gespeichert oder an Dritte weitergegeben.
+    </p>
+</div>
+
+<div class="card">
+    <h2>Support</h2>
+    <p>
+        Bei Problemen mit dem Bot kann der zuständige Support
+        kontaktiert werden.
+    </p>
+</div>
+
+<div class="footer">
+    © 2026 Discord Bot – Nutzungsanleitung
+</div>
+
+</div> </body> </html><div class="header">
+    <h1>Discord Bot</h1>
+    <p>Nutzungsanleitung und Informationen</p>
+</div>
+
+<div class="card">
+    <h2>Über den Bot</h2>
+    <p>
+        Dieser Discord Bot wurde entwickelt, um Discord-Server
+        bei der Verwaltung und Automatisierung verschiedener
+        Aufgaben zu unterstützen.
+    </p>
+</div>
+
+<div class="card">
+    <h2>Verwendung</h2>
+    <p>
+        Die Bedienung des Bots erfolgt über Discord Slash Commands.
+        Durch die Eingabe von <code>/</code> in einem Discord-Kanal
+        werden die verfügbaren Befehle angezeigt.
+    </p>
+</div>
+
+<div class="card">
+    <h2>Hilfe</h2>
+    <p>
+        Mit dem folgenden Befehl können verfügbare Funktionen
+        und Befehle angezeigt werden:
+    </p>
+
+    <p><code>/help</code></p>
+</div>
+
+<div class="card">
+    <h2>Berechtigungen</h2>
+    <p>
+        Der Bot benötigt bestimmte Discord-Berechtigungen, damit
+        seine vorgesehenen Funktionen ordnungsgemäß ausgeführt
+        werden können.
+    </p>
+
+    <p>
+        Befehle mit administrativen Funktionen können nur von
+        Benutzern verwendet werden, die über die entsprechenden
+        Discord-Berechtigungen verfügen.
+    </p>
+</div>
+
+<div class="card">
+    <h2>Datenschutz</h2>
+    <p>
+        Der Bot verarbeitet nur Informationen, die für die
+        Bereitstellung seiner Funktionen erforderlich sind.
+        Personenbezogene Daten werden nicht ohne erforderlichen
+        Zweck gespeichert oder an Dritte weitergegeben.
+    </p>
+</div>
+
+<div class="card">
+    <h2>Support</h2>
+    <p>
+        Bei Problemen mit dem Bot kann der zuständige Support
+        kontaktiert werden.
+    </p>
+</div>
+
+<div class="footer">
+    © 2026 Discord Bot – Nutzungsanleitung
+</div>
